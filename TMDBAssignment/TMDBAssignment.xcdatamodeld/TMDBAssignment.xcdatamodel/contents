@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="19H2" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="MovieItem" representedClassName="MovieItem" syncable="YES">
+        <attribute name="adult" optional="YES" attributeType="Transformable"/>
+        <attribute name="backdropPath" optional="YES" attributeType="Transformable"/>
+        <attribute name="backdropURL" optional="YES" attributeType="Transformable"/>
+        <attribute name="id" optional="YES" attributeType="Transformable"/>
+        <attribute name="overview" optional="YES" attributeType="Transformable"/>
+        <attribute name="posterPath" optional="YES" attributeType="Transformable"/>
+        <attribute name="posterURL" optional="YES" attributeType="Transformable"/>
+        <attribute name="releaseDate" optional="YES" attributeType="Transformable"/>
+        <attribute name="runtime" optional="YES" attributeType="Transformable"/>
+        <attribute name="tagline" optional="YES" attributeType="Transformable"/>
+        <attribute name="title" optional="YES" attributeType="Transformable"/>
+        <attribute name="voteAverage" optional="YES" attributeType="Transformable"/>
+        <attribute name="voteCount" optional="YES" attributeType="Transformable"/>
+    </entity>
+    <elements>
+        <element name="MovieItem" positionX="-63" positionY="-18" width="128" height="238"/>
+    </elements>
+</model>
